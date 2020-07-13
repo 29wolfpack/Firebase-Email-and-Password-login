@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060903636154",
+    "firebase_url": "https://wolfpack-34531.firebaseio.com",
+    "project_id": "wolfpack-34531",
+    "storage_bucket": "wolfpack-34531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060903636154:android:0f4dcd5130fba413b64683",
+        "android_client_info": {
+          "package_name": "com.sarath.wolfpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060903636154-8pa914jcrah6sdnbuj5edf28t10cfs1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIiPAVS5ReBtkQ8P8RmclFVlcWs2WRfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060903636154-8pa914jcrah6sdnbuj5edf28t10cfs1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
